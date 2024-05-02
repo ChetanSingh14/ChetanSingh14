@@ -1,5 +1,3 @@
-- 
-Sure, here's an updated version with more details:
 
 👋 Hi, I’m @ChetanSingh14
 👀 I’m interested in creating innovative web applications and exploring new technologies.
