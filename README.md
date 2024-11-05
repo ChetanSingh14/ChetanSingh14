@@ -25,18 +25,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetansingh14&" alt="chetansingh14" /></p>
 
 
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png)" width="100px" height="100px" />
-  <img src="[[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png)](https://gssoc.girlscript.tech/badges/5.png?imwidth=256)" width="100px" height="100px" />
-  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png)" width="100px" height="100px" />
-  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png)" width="100px" height="100px" />
-  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png)" width="100px" height="100px" />
-  <img src="![Share Badge (5)](https://github.com/user-attachments/assets/79a34a12-2bba-4f4a-822d-192f21925abd)
-ssets/5.png)" width="100px" height="100px" />
-  <img src="[https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png](https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png)" width="105px" height="105px" />
 
-</div>
-</details>
+ ![Share Badge (5)](https://github.com/user-attachments/assets/80c5bd97-d593-468c-8dbb-506af33a50b8)
+
 
