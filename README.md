@@ -1,43 +1,89 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/ChetanSingh14)
-<h1 align="center">Hi 👋, I'm Chetan Singh</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
- <img  align="right"  width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" alt="chetansingh14" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" width="100%" alt="Header Banner" />
+  
+  <h1>Hi 👋, I'm Chetan Singh</h1>
+  <p><strong>Full Stack & Mobile Engineer | MERN, TypeScript, Next.js & Android Architecture</strong></p>
+  
+  <p>
+    <a href="mailto:siradhanachetan14@gmail.com"><img src="https://img.shields.io/badge/Email-siradhanachetan14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/chetan-singh-6022b1298/"><img src="https://img.shields.io/badge/LinkedIn-Chetan%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/ChetanSingh14"><img src="https://img.shields.io/badge/GitHub-ChetanSingh14-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="tel:+919354864420"><img src="https://img.shields.io/badge/Phone-+91--9354864420-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact" /></a>
+  </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansingh14&label=Profile%20views&color=0e75b6&style=flat" alt="chetansingh14" /> </p>
-
-- 📫 How to reach me **siradhanachetan14@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/chetan-singh-6022b1298/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chetan-singh-6022b1298/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/dashboard" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/dashboard" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/https://leetcode.com/u/chetansingh981059/](https://leetcode.com/u/chetansingh981059/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/chetansingh981059/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/siradhanawozo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/siradhanawozo/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetansingh14&show_icons=true&locale=en&layout=compact" alt="chetansingh14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetansingh14&show_icons=true&locale=en" alt="chetansingh14" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetansingh14&" alt="chetansingh14" /></p>
-	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-
-
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-></a>
+  <p>
+    <a href="https://leetcode.com/u/chetansingh981059/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/siradhanawozo/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
+    <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  </p>
 </div>
 
+---
 
+### 💫 About Me
 
+* 🚀 Full Stack and Android Engineer experienced in high-performance architectures, real-time engines, and scalable payment ecosystems.
+* 🛠️ Currently building high-throughput services and virtual economies at **Insanger Technologies**.
+* ⚙️ Experienced in **FastAPI**, **PostgreSQL**, **AWS**, **Docker**, **Nginx**, and **Socket.io** event-driven systems.
+* 🌟 Open-source contributor across **Summer of Bitcoin** and **GSSoC**.
 
+---
+
+### 🛠️ Tech Stack & Tooling
+
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" alt="Languages" />
+</p>
+
+**Frontend & Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,materialui" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge" alt="Zustand" />
+</p>
+
+**Backend, Databases & Caching**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis,prisma,supabase" alt="Backend and DBs" />
+</p>
+
+**DevOps, Cloud & Architecture**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,vercel,git,github,githubactions,linux,postman" alt="Cloud and DevOps" />
+</p>
+
+**Payments, Real-Time & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
+  <img src="https://img.shields.io/badge/PayU-00A859?style=for-the-badge&logoColor=white" alt="PayU" />
+  <img src="https://img.shields.io/badge/Cashfree-002970?style=for-the-badge&logoColor=white" alt="Cashfree" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ChetanSingh14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ChetanSingh14&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ChetanSingh14&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 🏆 Open Source & Recognitions
+
+<div align="center">
+  <p>
+    <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/GSSoC'24-Contributor-FF725E?style=for-the-badge&logo=gitbook&logoColor=white" alt="GSSoC Contributor" /></a>
+    <a href="https://gssoc.girlscript.tech/"><img src="https://img.shields.io/badge/Postman_Challenge-Completed-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Challenge" /></a>
+    <a href="https://www.summerofbitcoin.org/"><img src="https://img.shields.io/badge/Summer_of_Bitcoin-Contributor-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Summer of Bitcoin" /></a>
+  </p>
+</div>
