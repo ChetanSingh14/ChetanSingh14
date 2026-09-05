@@ -33,36 +33,60 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css" alt="Languages" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3" /></a>
 </p>
 
 **Frontend & Mobile**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,materialui" alt="Frontend" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge" alt="Zustand" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" alt="React Native" /></a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="Material UI" /></a>
+  <a href="https://zustand.docs.pmnd.rs/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Zustand-443e38?style=for-the-badge" height="35" alt="Zustand" /></a>
 </p>
 
 **Backend, Databases & Caching**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres,mysql,redis,prisma,supabase" alt="Backend and DBs" />
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" /></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" /></a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" /></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="Prisma" /></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" /></a>
 </p>
 
 **DevOps, Cloud & Architecture**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,nginx,vercel,git,github,githubactions,linux,postman" alt="Cloud and DevOps" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" /></a>
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" width="45" height="45" alt="Nginx" /></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions" /></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a>
 </p>
 
 **Payments, Real-Time & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logoColor=white" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" />
-  <img src="https://img.shields.io/badge/PayU-00A859?style=for-the-badge&logoColor=white" alt="PayU" />
-  <img src="https://img.shields.io/badge/Cashfree-002970?style=for-the-badge&logoColor=white" alt="Cashfree" />
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" /></a>
+  <a href="https://bullmq.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/BullMQ-FF4500?style=for-the-badge&logoColor=white" alt="BullMQ" /></a>
+  <a href="https://stripe.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" /></a>
+  <a href="https://razorpay.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="Razorpay" /></a>
+  <a href="https://payu.in/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PayU-00A859?style=for-the-badge&logoColor=white" alt="PayU" /></a>
+  <a href="https://www.cashfree.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Cashfree-002970?style=for-the-badge&logoColor=white" alt="Cashfree" /></a>
 </p>
-
 ---
 
 ### 📊 GitHub Activity
